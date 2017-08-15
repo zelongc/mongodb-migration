@@ -18,3 +18,29 @@ find_one_and_delete() missing 1 required positional argument: 'filter'
 find_one_and_delete() missing 1 required positional argument: 'filter'
 [2017-08-15 18:19:15.240625]
 52.63.216.46:27017: [Errno 61] Connection refused
+[2017-08-15 18:39:45.270797]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:41:26.930513]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:42:06.621942]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "789742144714072064" }
+[2017-08-15 18:43:20.453218]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "789622669381668864" }
+[2017-08-15 18:43:20.502443]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "789343994396413952" }
+[2017-08-15 18:43:20.552843]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "789252592077594624" }
+[2017-08-15 18:43:20.594128]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "789064785182789632" }
+[2017-08-15 18:43:20.640085]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "788892828852158464" }
+[2017-08-15 18:43:20.684043]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "788630504547442688" }
+[2017-08-15 18:43:20.729564]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "788495974515806209" }
+[2017-08-15 18:43:20.769780]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "788282215096578048" }
+[2017-08-15 18:43:20.816369]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "788177797172912129" }
+[2017-08-15 18:43:20.861134]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "787903430866141184" }

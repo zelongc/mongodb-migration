@@ -37,9 +37,10 @@ class db_client(object):
                 data2 = self.to_collection.insert_one(data)
             except Exception as e:
                 with open('mongodb_log', 'a') as f:  # a -> append to the bottom line
+                    print('duplication!')
                     f.write("[" + datetime.datetime.now().__str__() + "]" + '\n')
                     f.write(str(e) + '\n')
-                raise
+
 
 
 if __name__ == "__main__":

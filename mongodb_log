@@ -44,3 +44,51 @@ insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.twe
 insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "788177797172912129" }
 [2017-08-15 18:43:20.861134]
 insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets.$_id_  dup key: { : "787903430866141184" }
+[2017-08-15 18:54:28.007871]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:29.434146]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:30.879454]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:32.445697]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:34.189168]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:35.747147]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:36.927369]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:38.247291]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:39.942171]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:41.661812]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:43.083967]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:44.416462]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:46.014706]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:47.727213]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:49.568716]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:50.846227]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:52.523702]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:54.231740]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:55.964843]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:57.350324]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:54:58.755702]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:55:00.697624]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:55:02.847606]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2017-08-15 18:55:05.079170]
+document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping

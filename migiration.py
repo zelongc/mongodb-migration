@@ -33,7 +33,7 @@ class db_client(object):
         while self.from_collection.count()!=0:
             print('from', from_address, 'to', to_address)
             try:
-                data = self.from_collection.find_one_and_delete({"id":{"$ne":'null'}})
+                data = self.from_collection.find_one_and_delete({"id":{"$ne":None}})
                 data2 = self.to_collection.insert_one(data)
             except Exception as e:
                 with open('mongodb_log', 'a') as f:  # a -> append to the bottom line

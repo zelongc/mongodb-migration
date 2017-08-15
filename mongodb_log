@@ -16,3 +16,5 @@ find_one_and_delete() missing 1 required positional argument: 'filter'
 find_one_and_delete() missing 1 required positional argument: 'filter'
 [2017-08-15 16:18:01.470870]
 find_one_and_delete() missing 1 required positional argument: 'filter'
+[2017-08-15 18:19:15.240625]
+52.63.216.46:27017: [Errno 61] Connection refused

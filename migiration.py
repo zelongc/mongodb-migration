@@ -34,9 +34,7 @@ class db_client(object):
             print('from', from_address, 'to', to_address)
             try:
                 data = self.from_collection.find_one_and_delete({"id":{"$gt":1}})
-                print('deleting', data)
                 data2 = self.to_collection.insert_one(data)
-                print(data2)
             except Exception as e:
                 with open('mongodb_log', 'a') as f:  # a -> append to the bottom line
                     f.write("[" + datetime.datetime.now().__str__() + "]" + '\n')

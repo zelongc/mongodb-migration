@@ -1,3 +1,3 @@
-sudo pip3 install pymongo -y
+sudo pip3 install pymongo
 
 # nohup xxxxxx &
